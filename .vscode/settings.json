@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "common.h": "c",
+        "mystring.h": "c",
+        "gdt.h": "c",
+        "string.h": "c",
+        "idt.h": "c",
+        "debug.h": "c",
+        "pmm.h": "c",
+        "keyboard.h": "c",
+        "console.h": "c",
+        "heap.h": "c"
+    }
+}
